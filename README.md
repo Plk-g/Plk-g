@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Palak!
 
-Welcome to my corner of the internet, where ** Tech meets creativity** 🧠✨  
+Welcome to my corner of the internet, where Tech meets creativity 🧠✨  
 
 🎓 MS in Computer Science @ **NYU Tandon**  
 🎓 B.Tech in Computer Science and Engineering @ **Vellore Institute of Technology**  
