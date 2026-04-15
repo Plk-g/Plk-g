@@ -56,20 +56,16 @@ Real-time pipeline tracking how **disinformation mutates** across sources. Built
 ---
 
 ## ✦ Stats
-
+ 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Plk-g&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&rank_icon=github&icon_color=f472b6&title_color=a78bfa&text_color=d4b8f0" height="150" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plk-g&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=a78bfa&text_color=d4b8f0&hide=Jupyter%20Notebook" height="150" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plk-g&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=a78bfa&text_color=d4b8f0&hide=Jupyter%20Notebook,C%23,HTML,CSS" height="150" />
 <br/>
-
 <img src="https://streak-stats.demolab.com?user=Plk-g&theme=rose_pine&hide_border=true&ring=f472b6&fire=a78bfa&currStreakLabel=d4b8f0" height="100" />
-
 </div>
-
 ---
+
 
 ## ✦ Stack
 
